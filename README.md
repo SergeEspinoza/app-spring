@@ -7,7 +7,7 @@ un tercer repositorio de esta cuenta.
 Este proyecto fue generado con:
 - [SpringToolsSuite](https://spring.io/tools) 3.9.6. RELEASE.
 
-##Indicaciones
+## Indicaciones
 Una vez descargado el proyecto y nuestro STS listo para funcionar, importamos nuestro proyecto
 con File> Open Projects from File System> Directory y elegimos la carpeta del proyecto.
 
